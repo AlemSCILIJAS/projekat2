@@ -15,4 +15,10 @@
         android:layout_margin="16dp"
         android:text="Promijenili tekst i postavili na git"
         android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dodali dugme" />
 </LinearLayout>
